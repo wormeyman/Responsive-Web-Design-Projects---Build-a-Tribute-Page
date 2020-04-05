@@ -1,1 +1,8 @@
 /* TBD */
+#main {
+  background-color: darkgrey;
+}
+#image {
+  width: 100%;
+  height: auto;
+}
