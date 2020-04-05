@@ -3,6 +3,12 @@
   background-color: darkgrey;
 }
 #image {
-  width: 100%;
+  max-width: 100%;
   height: auto;
+  display: block;
+  margin: 0 auto 0 auto;
+}
+#tribute-info {
+  display: block;
+  margin: 0 auto 0 auto;
 }
